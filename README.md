@@ -33,5 +33,5 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
 
-<p><a target="_blank" href="https://x.com/https://x.com/CnctZahir" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zahir&show_icons=true&locale=en&layout=compact" alt="zahir" /></p>
