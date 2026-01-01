@@ -39,8 +39,8 @@
 <ul>
   <li>
     <strong>Full-Stack Auth App</strong><br/>
-    🔗 <a href="[https://auth-app.vercel.app](https://vercel.com/zahirs-projects/next-neon-validation-app)" target="_blank">Live Demo</a> |
-    💻 <a href="[https://github.com/zahirpk/auth-app](https://github.com/zahirpk/next-neon-client-side-validation-app)" target="_blank">Source Code</a><br/>
+    🔗 <a href="https://vercel.com/zahirs-projects/next-neon-validation-app" target="_blank">Live Demo</a> |
+    💻 <a href="https://github.com/zahirpk/next-neon-client-side-validation-app" target="_blank">Source Code</a><br/>
     <small>Next.js, Better Auth, PostgreSQL, Neon, zod, Tailwind</small>
   </li>
 
