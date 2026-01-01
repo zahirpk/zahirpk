@@ -29,6 +29,24 @@
 <a target="_blank" href="https://github.com/zahirpk" style="display: inline-block;">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
+
+<h2>🚀 Live Projects</h2>
+<ul>
+  <li>
+    <strong>Full-Stack Auth App</strong><br/>
+    🔗 <a href="[https://auth-app.vercel.app](https://vercel.com/zahirs-projects/next-neon-validation-app)" target="_blank">Live Demo</a> |
+    💻 <a href="[https://github.com/zahirpk/auth-app](https://github.com/zahirpk/next-neon-client-side-validation-app)" target="_blank">Source Code</a><br/>
+    <small>Next.js, Better Auth, PostgreSQL, Neon, zod, Tailwind</small>
+  </li>
+
+  <li>
+    <strong>CRUD Dashboard</strong><br/>
+    🔗 <a href="https://crud-dashboard.vercel.app" target="_blank">Live Demo</a> |
+    💻 <a href="https://github.com/zahirpk/crud-dashboard" target="_blank">Source Code</a><br/>
+    <small>React, Node.js, Express, MongoDB</small>
+  </li>
+</ul>
+
 <a href="mailto:bsit.007.101@gmail.com" style="display: inline-block;">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
