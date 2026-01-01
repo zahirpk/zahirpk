@@ -23,5 +23,15 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
+<a target="_blank" href="https://x.com/CnctZahir" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a target="_blank" href="https://github.com/zahirpk" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+</a>
+<a href="mailto:bsit.007.101@gmail.com" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+</a>
+
 <p><a target="_blank" href="https://x.com/https://x.com/CnctZahir" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zahir&show_icons=true&locale=en&layout=compact" alt="zahir" /></p>
