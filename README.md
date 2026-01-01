@@ -33,24 +33,15 @@
 <a href="mailto:bsit.007.101@gmail.com" style="display: inline-block;">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
-
-
 <h2>🚀 Live Projects</h2>
-<ul>
-  <li>
-    <strong>Full-Stack Auth App</strong><br/>
-    🔗 <a href="[Live Demo](https://next-neon-validation-app.vercel.app/)" target="_blank">Live Demo</a> |
-    💻 <a href="https://github.com/zahirpk/next-neon-client-side-validation-app" target="_blank">Source Code</a><br/>
-    <small>Next.js, Better Auth, PostgreSQL, Neon, zod, Tailwind</small>
-  </li>
 
-  <li>
-    <strong>CRUD Dashboard</strong><br/>
-    🔗 <a href="https://crud-dashboard.vercel.app" target="_blank">Live Demo</a> |
-    💻 <a href="https://github.com/zahirpk/crud-dashboard" target="_blank">Source Code</a><br/>
-    <small>React, Node.js, Express, MongoDB</small>
-  </li>
-</ul>
+<li>
+  <strong>Next.js Neon Validation App</strong><br/>
+  🔗 <a href="https://next-neon-validation-app.vercel.app/" target="_blank">Live Demo</a> |
+  💻 <a href="https://github.com/zahirpk/next-neon-validation-app" target="_blank">Source Code</a><br/>
+  <small>Next.js, PostgreSQL, Neon, Server Actions</small>
+</li>
+
 
 
 
