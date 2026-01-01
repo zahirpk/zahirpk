@@ -30,6 +30,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
 
+<a href="mailto:bsit.007.101@gmail.com" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+</a>
+
+
 <h2>🚀 Live Projects</h2>
 <ul>
   <li>
@@ -47,8 +52,5 @@
   </li>
 </ul>
 
-<a href="mailto:bsit.007.101@gmail.com" style="display: inline-block;">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-</a>
 
 
