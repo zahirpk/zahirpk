@@ -45,9 +45,9 @@
   <small>Next.js, PostgreSQL, Neon, Server Actions,Tailwind CSS</small>
 </li>
  <li>
-  <strong>Easybank Landing Page</strong><br/>
-  🔗 <a href="https://zahirpk.github.io/easybank-landing-page/" target="_blank">Live Demo</a> |
-  💻 <a href="https://github.com/zahirpk/easybank-landing-page" target="_blank">Source Code</a><br/>
+  <strong>Static website</strong><br/>
+  🔗 <a href="https://zahirpk.github.io/intro-section-with-dropdown-navigation/" target="_blank">Live Demo</a> |
+  💻 <a href="https://github.com/zahirpk/intro-section-with-dropdown-navigation" target="_blank">Source Code</a><br/>
   <small>HTML, CSS, Responsive Design</small>
 </li>
 
