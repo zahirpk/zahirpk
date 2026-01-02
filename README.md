@@ -42,7 +42,7 @@
   <strong>Next.js Neon Validation App</strong><br/>
   🔗 <a href="https://next-neon-validation-app.vercel.app/" target="_blank">Live Demo</a> |
   💻 <a href="https://github.com/zahirpk/next-neon-validation-app" target="_blank">Source Code</a><br/>
-  <small>Next.js, PostgreSQL, Neon, Server Actions</small>
+  <small>Next.js, PostgreSQL, Neon, Server Actions,Tailwind CSS</small>
 </li>
  <li>
   <strong>Easybank Landing Page</strong><br/>
@@ -55,7 +55,7 @@
   <strong>Age Calculator App</strong><br/>
   🔗 <a href="https://zahirpk.github.io/Age--Calculator--App/" target="_blank">Live Demo</a> |
   💻 <a href="https://github.com/zahirpk/Age--Calculator--App" target="_blank">Source Code</a><br/>
-  <small>HTML, CSS, Responsive Design</small>
+  <small>HTML, CSS, JavaScript</small>
 </li>
 
 
@@ -63,7 +63,7 @@
   <strong>Mobile-First Landing Page</strong><br/>
   🔗 <a href="https://zahirpk.github.io/sunnyside-agency-landing-page/" target="_blank">Live Demo</a> |
   💻 <a href="https://github.com/zahirpk/sunnyside-agency-landing-page" target="_blank">Source Code</a><br/>
-  <small>HTML, CSS, Responsive Design</small>
+  <small>HTML, CSS, Responsive Design,JavaScript</small>
 </li>
 
 
