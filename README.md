@@ -54,7 +54,7 @@
  <li>
   <strong>Easybank Landing Page</strong><br/>
   🔗 <a href="https://zahirpk.github.io/Age--Calculator--App/" target="_blank">Live Demo</a> |
-  💻 <a href="https://github.com/zahirpk/easybank-landing-page" target="_blank">Source Code</a><br/>
+  💻 <a href="https://github.com/zahirpk/Age--Calculator--App" target="_blank">Source Code</a><br/>
   <small>HTML, CSS, Responsive Design</small>
 </li>
 
