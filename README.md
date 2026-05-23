@@ -38,6 +38,15 @@
 <h2>🚀 Live Projects</h2>
 
 <ul>
+
+
+  <li>
+  <strong>Multi-Page-website (Guru Level Challenge at FrontEnd Mentor)</strong><br/>
+  🔗 <a href="https://designo-multi-page-website-eta.vercel.app/" target="_blank">Live Demo</a> |
+  💻 <a href="https://github.com/zahirpk/next-neon-validation-app" target="_blank">Source Code</a><br/>
+  <small>Next.js, PostgreSQL, Neon, Server Actions,Tailwind CSS</small>
+</li>
+
 <li>
   <strong>Next.js Neon Validation App</strong><br/>
   🔗 <a href="https://next-neon-validation-app.vercel.app/" target="_blank">Live Demo</a> |
