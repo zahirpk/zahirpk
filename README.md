@@ -44,7 +44,7 @@
   <strong>Multi-Page-website (Guru Level Challenge at FrontEnd Mentor)</strong><br/>
   🔗 <a href="https://designo-multi-page-website-eta.vercel.app/" target="_blank">Live Demo</a> |
   💻 <a href="https://github.com/zahirpk/designo-multi-page-website" target="_blank">Source Code</a><br/>
-  <small>ReactJS, Nextjs16, class variance authority flexbox css,Grid layout Tailwind CSS</small>
+  <small>ReactJS,  Nextjs16, class variance authority, flexbox css, Grid layout,  Tailwind CSS</small>
 </li>
 
 <li>
